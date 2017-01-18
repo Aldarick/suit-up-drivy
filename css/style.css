@@ -1,3 +1,8 @@
+.mdl-layout {
+    background-color: white;
+    background-image: url("../images/background.png");
+}
+
 .mdl-card__media {
     background: white;
 }
@@ -10,7 +15,7 @@
     margin-bottom: 5px;
 }
 
-.mdl-layout-title{
-    font-size : 200%;
+.mdl-layout-title {
+    font-size: 200%;
     font-weight: bold;
 }
