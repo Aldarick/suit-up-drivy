@@ -1,0 +1,16 @@
+.mdl-card__media {
+    background: white;
+}
+
+.rentalImage {
+    float: right;
+}
+
+.actorsDiv {
+    margin-bottom: 5px;
+}
+
+.mdl-layout-title{
+    font-size : 200%;
+    font-weight: bold;
+}
